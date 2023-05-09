@@ -8,9 +8,9 @@ https://www.hackingwithswift.com/100
 
 ## Challenge
 
-This challenge was to create an app that lets people create a shopping list by adding items to a table view.
+The challenge was to create an app that lets people create a shopping list by adding items to a table view.
 
-For bonus points, I needed to add a left bar button item that clears the shopping list 
+For bonus points, I needed to add a left bar button item that clears the shopping list. 
 
 ## Screenshots
 
